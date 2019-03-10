@@ -1,14 +1,13 @@
 charles is a ver good  man
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 charlse is a good man
-=======
+
 char is a good man
->>>>>>> chrr
-=======
+
 char is a good man
 chrr is a three good man
 chrr is a four good man
->>>>>>> chrr
 
 charles ai a good man
+
+dsafkjdfa
