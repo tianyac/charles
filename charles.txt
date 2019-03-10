@@ -1,2 +1,6 @@
 charles is a ver good  man
+<<<<<<< HEAD
 charlse is a good man
+=======
+char is a good man
+>>>>>>> chrr
